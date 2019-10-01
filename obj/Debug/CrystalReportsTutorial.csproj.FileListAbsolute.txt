@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\CrystalReportsTutorial\CrystalReportsTutorial\bin\Debug\CrystalReportsTutorial.exe.config
+C:\Users\User\Desktop\CrystalReportsTutorial\CrystalReportsTutorial\bin\Debug\CrystalReportsTutorial.exe
+C:\Users\User\Desktop\CrystalReportsTutorial\CrystalReportsTutorial\bin\Debug\CrystalReportsTutorial.pdb
+C:\Users\User\Desktop\CrystalReportsTutorial\CrystalReportsTutorial\obj\Debug\CrystalReportsTutorial.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\CrystalReportsTutorial\CrystalReportsTutorial\obj\Debug\CrystalReportsTutorial.Form1.resources
+C:\Users\User\Desktop\CrystalReportsTutorial\CrystalReportsTutorial\obj\Debug\CrystalReportsTutorial.Properties.Resources.resources
+C:\Users\User\Desktop\CrystalReportsTutorial\CrystalReportsTutorial\obj\Debug\CrystalReportsTutorial.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\CrystalReportsTutorial\CrystalReportsTutorial\obj\Debug\CrystalReportsTutorial.exe
+C:\Users\User\Desktop\CrystalReportsTutorial\CrystalReportsTutorial\obj\Debug\CrystalReportsTutorial.pdb
+C:\Users\User\Desktop\CrystalReportsTutorial\CrystalReportsTutorial\bin\Debug\Reports\CrystalReport1.rpt
+C:\Users\User\Desktop\CrystalReportsTutorial\CrystalReportsTutorial\bin\Debug\Reports\CrystalReport1.cs

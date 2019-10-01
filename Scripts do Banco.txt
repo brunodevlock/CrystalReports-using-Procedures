@@ -1,0 +1,56 @@
+CREATE PROCEDURE GETALLDATA
+AS
+BEGIN
+
+	SELECT * FROM SAMPLE_TABLE
+END
+GO
+--------------------
+
+
+
+
+
+
+USE SAMPLEDB
+
+    INSERT INTO Sample_Table
+        (NAME, AGE, GENDER, CITY)
+    VALUES  
+        ('Fábio', 23, 'MALE', 'SÃO PAULO');  
+
+
+		USE SAMPLEDB
+
+    INSERT INTO Sample_Table
+        (NAME, AGE, GENDER, CITY)
+    VALUES  
+        ('Bruno', 32, 'MALE', 'SÃO PAULO');  
+
+
+		USE SAMPLEDB
+
+    INSERT INTO Sample_Table
+        (NAME, AGE, GENDER, CITY)
+    VALUES  
+        ('Adriana', 23, 'FEMALE', 'SÃO PAULO');  
+
+
+		USE SAMPLEDB
+
+    INSERT INTO Sample_Table
+        (NAME, AGE, GENDER, CITY)
+    VALUES  
+        ('THIAGO', 23, 'MALE', 'SÃO PAULO');  
+
+
+		USE SAMPLEDB
+
+    INSERT INTO Sample_Table
+        (NAME, AGE, GENDER, CITY)
+    VALUES  
+        ('LIVIA', 33, 'FEMALE', 'SÃO PAULO');  
+
+
+
+		SELECT * FROM SAMPLE_TABLE
